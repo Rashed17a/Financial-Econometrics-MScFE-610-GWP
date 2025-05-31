@@ -1,1 +1,1 @@
-# MScFE-610-GWP
+# Financial Econometrics MScFE-610-GWP
